@@ -1,0 +1,1 @@
+Priority queue and Kd tree are two very foundational stones for my map project. Kd tree is used to find the nearest point given a point of interest. Priority will be utilized in my A star AI algorithm.
